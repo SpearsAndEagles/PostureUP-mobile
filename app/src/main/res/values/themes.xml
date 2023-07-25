@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PostureUp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#B7CF97</item>
+    </style>
+
+    <style name="Theme.PostureUp" parent="Base.Theme.PostureUp" />
+</resources>
